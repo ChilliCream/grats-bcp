@@ -1,0 +1,14 @@
+{
+    "grats": {
+      // See Configuration for all available options
+    },
+    "compilerOptions": {
+        "target": "ES2015", 
+        "strictNullChecks": true,
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "outDir": "./dist" 
+      }
+  }
